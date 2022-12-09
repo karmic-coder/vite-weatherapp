@@ -148,6 +148,15 @@ img {
   border-radius: 10px;
 }
 
+.forecast-error {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: rgb(187, 46, 46);
+  width: 300px;
+  padding: 1em;
+  border-radius: 0.25rem;
+  margin-top: 1rem;
+}
+
 @media (width<460px) {
   .container {
     width: 95%;
